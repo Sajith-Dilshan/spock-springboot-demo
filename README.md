@@ -140,3 +140,4 @@ Check out the sample gradle test report that I have hosted here: [https://schult
 Practice, practice, practice! The learning curve is a bit steep with Spock -- especially if you're new to groovy syntax in general. However, it's one of those things that "once you get it, you get it". And you'll never want to write tests any other way again!
 
 Lookup that [document I mentioned eariler](https://gist.github.com/schultzisaiah/09dd8ac30dd43bdbfa77fe8fbae1da95) to dig into any of these concepts deeper, or to learn some of the more complex features that Spock has to offer!
+
